@@ -1,0 +1,15 @@
+.div-month{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.div-month > select  {  
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.div-month > label{
+ font-size: 1.10rem;
+}
